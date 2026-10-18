@@ -24,7 +24,7 @@ jobs:
               <string-array name="hidden_apps">
               </string-array>
               <string name="live_tv_package">com.smartdevice.livetv</string>
-              <integer name="grid_columns">6</integer>
+              <integer name="columns">6</integer>
           </resources>
           EOF
       - name: Build APK
